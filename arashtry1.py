@@ -31,3 +31,4 @@ def start():
     else:
         print("Done")
         start()
+start()
